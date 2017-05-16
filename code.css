@@ -1,0 +1,42 @@
+div.code {
+    overflow-x: auto;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+div.panel-section {
+    border-width: 1px;
+    border-style: solid;
+}
+
+div.code-container {
+    
+}
+
+div.current {
+    background-color: #ea5058;
+}
+
+div.blank {
+    height: 12px;
+}
+
+div.indent-0 {
+    padding-left: 0px;
+}
+
+div.indent-1 {
+    padding-left: 20px;
+}
+
+div.indent-2 {
+    padding-left: 40px;
+}
+
+div.indent-3 {
+    padding-left: 60px;
+}
+
+div.indent-4 {
+    padding-left: 80px;
+}
