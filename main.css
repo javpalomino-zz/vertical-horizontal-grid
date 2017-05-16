@@ -1,30 +1,10 @@
-div.red {
-    background-color: red;
-}
-
-div.black {
-    background-color: black;
-}
-
-div.yellow {
-    background-color: yellow;
-}
-
-div.orange {
-    background-color: orange;
-}
-
-div.green {
-    background-color: green;
-}
-
-div.white {
-    background-color: white;
-}
-
 div.code {
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+div.code-container {
+    
 }
 
 div.current {
