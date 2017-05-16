@@ -1,0 +1,56 @@
+div.red {
+    background-color: red;
+}
+
+div.black {
+    background-color: black;
+}
+
+div.yellow {
+    background-color: yellow;
+}
+
+div.orange {
+    background-color: orange;
+}
+
+div.green {
+    background-color: green;
+}
+
+div.white {
+    background-color: white;
+}
+
+div.code {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+div.current {
+    background-color: grey;
+}
+
+div.blank {
+    height: 12px;
+}
+
+div.indent-0 {
+    padding-left: 0px;
+}
+
+div.indent-1 {
+    padding-left: 20px;
+}
+
+div.indent-2 {
+    padding-left: 40px;
+}
+
+div.indent-3 {
+    padding-left: 60px;
+}
+
+div.indent-4 {
+    padding-left: 80px;
+}
